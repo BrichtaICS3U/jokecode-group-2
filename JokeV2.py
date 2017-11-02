@@ -1,3 +1,3 @@
-print('Wanna hear a joke? (Press a enter to continue)')
+print('Wanna hear a joke? (Press enter to continue)')
 input()
 print('My life')
